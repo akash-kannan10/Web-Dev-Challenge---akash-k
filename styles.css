@@ -1,0 +1,108 @@
+body {
+    display: flex;
+    border: 0;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(46, 47, 66);
+    height: 750px;
+}
+
+main {
+    display: flex;
+}
+.side_bar {
+    width: 50px;
+    background-color: rgb(25, 25, 46);
+    height: 750px;
+}
+
+#deepseek_logo {
+    padding: 15px 0 15px 5px;
+    width:40px;
+}
+
+#close_chat {
+    padding: 15px 0 15px 5px;
+    width:40px;
+}
+
+#new_chat {
+    padding: 15px 0 15px 5px;
+    width:40px;
+}
+
+#phone {
+    padding: 380px 0 15px 0px;
+    width:50px;
+}
+
+#user {
+    padding: 0px 0 15px 5px;
+    width:40px;
+}
+
+.welcome_section {
+    display: block;
+    width: 700px;
+    height: 200px;
+    margin: 220px 0px 200px 400px;
+}
+#welcome_logo {
+    width: 50px;
+    height: 50px;
+}
+
+#welcome_title {
+    font-family: Roboto, sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: large;
+    padding-left:20px ;
+}
+
+#welcome_section1 {
+    display: flex;
+    padding-left:240px ;
+}
+
+#how_cani {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    color: white;
+    font-size: small;
+    padding: 0 0 0 275px ;
+}
+
+.message_box {
+    height: 100px;
+    background-color: rgb(94, 94, 94);
+    border-radius: 30px;
+}
+
+input{
+    all:unset
+}
+
+#message {
+    font-family: Roboto;
+    font-size: large;
+    background-color: rgb(94, 94, 94);
+    margin: 10px 0 0 15px;
+    
+}
+
+
+
+#input_box1 {
+    width: 140px;
+    padding: 30px 0 0 10px;
+}
+
+#input_box2 {
+    width: 90px;
+    padding: 0px 0 0 0px;
+}
+#input_box34 {
+    width: 70px;
+    padding: 0px 0 5px 350px;
+}
